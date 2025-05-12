@@ -67,7 +67,7 @@
 *Optimized editing interface.*  
 
 **Color Grading Tool**  
-![Color Tool](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT73MAJyLb10ciqrW_kLyKqPslIKJbLz9MyiA&s)  
+![Color Tool](https://images.blackmagicdesign.com/images/products/davinciresolve/overview/onesolution/carousel/color.jpg)  
 *Tool for streamlined color corrections.*  
 
 
